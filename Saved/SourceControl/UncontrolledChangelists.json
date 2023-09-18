@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/Warehouse/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealProjects/Warehouse/Content/WarehouseMap/Warehouse.umap",
+				"D:/UnrealProjects/Warehouse/Content/WarehouseMap/Minimal_Default.umap",
+				"D:/UnrealProjects/Warehouse/Content/WarehouseMap/BP_CannonBall.uasset",
+				"D:/UnrealProjects/Warehouse/Content/Main.umap"
+			]
+		}
+	]
+}
